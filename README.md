@@ -19,6 +19,7 @@ TaskTuner is an **AI-driven smart routine planner** that creates **personalized 
 ## 💡 Use Cases
 - 🎓 **Students** – Manage study, fitness & relaxation effectively.  
 - 👩‍💻 **Professionals** – Balance work & personal time efficiently.  
-- 🧘 **Health-Conscious Users** – Improve **mental & physical well-being** with structured routines.  
+- 🧘 **Health-Conscious Users** – Improve **mental & physical well-being** with structured routines.
+- .
 
 
